@@ -1,6 +1,6 @@
 ### Olá sou André Queiroz 👋
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas (2/5)
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas (3/5)
 - 🌱 Estudando Java e linguagens Front
 
 <div align="center">
