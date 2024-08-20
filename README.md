@@ -1,7 +1,7 @@
 ### Olá sou André Queiroz 👋
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas (3/5)
-- 🌱 Estudando Java e linguagens Front
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Já trabalhei como suporte e gosto da área de dados
 
 <div align="center">
   <a href="https://github.com/andrelqvalpassos">
